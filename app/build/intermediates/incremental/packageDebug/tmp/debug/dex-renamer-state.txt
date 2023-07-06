@@ -1,0 +1,4 @@
+#Mon May 15 17:11:24 BRT 2023
+base.0=C\:\\Users\\Usuario\\Desktop\\Projetos\\06.ProjComBLE\\30.AppAndroid\\2.Prototipos\\Base.SimpleBluetoothLe - backup 02.02.23\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\Projetos\\06.ProjComBLE\\30.AppAndroid\\2.Prototipos\\Base.SimpleBluetoothLe - backup 02.02.23\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\device_list_item.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\Projetos\\06.ProjComBLE\\30.AppAndroid\\2.Prototipos\\Base.SimpleBluetoothLe - backup 02.02.23\\app\\src\\main\\res\\layout\\device_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\Projetos\\06.ProjComBLE\\30.AppAndroid\\2.Prototipos\\Base.SimpleBluetoothLe - backup 02.02.23\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\device_list_header.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\Projetos\\06.ProjComBLE\\30.AppAndroid\\2.Prototipos\\Base.SimpleBluetoothLe - backup 02.02.23\\app\\src\\main\\res\\layout\\device_list_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\Projetos\\06.ProjComBLE\\30.AppAndroid\\2.Prototipos\\Base.SimpleBluetoothLe - backup 02.02.23\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_initial_screen.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\Projetos\\06.ProjComBLE\\30.AppAndroid\\2.Prototipos\\Base.SimpleBluetoothLe - backup 02.02.23\\app\\src\\main\\res\\layout\\activity_initial_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\Projetos\\06.ProjComBLE\\30.AppAndroid\\2.Prototipos\\Base.SimpleBluetoothLe - backup 02.02.23\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\Projetos\\06.ProjComBLE\\30.AppAndroid\\2.Prototipos\\Base.SimpleBluetoothLe - backup 02.02.23\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\Projetos\\06.ProjComBLE\\30.AppAndroid\\2.Prototipos\\Base.SimpleBluetoothLe - backup 02.02.23\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_terminal.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\Projetos\\06.ProjComBLE\\30.AppAndroid\\2.Prototipos\\Base.SimpleBluetoothLe - backup 02.02.23\\app\\src\\main\\res\\layout\\fragment_terminal.xml"
+    }
+]

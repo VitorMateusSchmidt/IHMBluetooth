@@ -1,0 +1,58 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+
+android {
+    compileSdkVersion 30
+    defaultConfig {
+        targetSdkVersion 30
+        minSdkVersion 21
+        vectorDrawables.useSupportLibrary true
+
+        applicationId "de.desenvolvimento.simple_bluetooth_le_terminal"
+        versionCode 1
+        versionName "1.0"
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'androidx.mediarouter:mediarouter:1.2.5'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
+    implementation 'androidx.annotation:annotation:1.3.0'
+    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.3.1'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1'
+
+//    def room_version = "2.4.0"
+//
+//    implementation "androidx.room:room-runtime:$room_version"
+//    annotationProcessor "androidx.room:room-compiler:$room_version"
+//
+//    // optional - RxJava2 support for Room
+//    implementation "androidx.room:room-rxjava2:$room_version"
+//
+//    // optional - RxJava3 support for Room
+//    implementation "androidx.room:room-rxjava3:$room_version"
+//
+//    // optional - Guava support for Room, including Optional and ListenableFuture
+//    implementation "androidx.room:room-guava:$room_version"
+//
+//    // optional - Test helpers
+//    testImplementation "androidx.room:room-testing:$room_version"
+//
+//    // optional - Paging 3 Integration
+//    implementation "androidx.room:room-paging:2.4.0"
+}

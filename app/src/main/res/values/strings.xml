@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">IHM Bluetooth</string>
+    <string name="devices">Bluetooth LE Devices</string>
+
+    <string name="location_permission_title">Permissão de localização necessária</string>
+    <string name="location_permission_message">Este app não utiliza informações de localização, mas a varredura por dispositivos
+        Bluetooth LE requer esta permissão</string>
+
+    <string name="location_denied_title">Permissão de localização negada</string>
+    <string name="location_denied_message">Como a permissão de localização nao foi concedida, este app não pode buscar por dispositivos Bluetooth LE.</string>
+    <string name="pairing_request">Emparelhamento solicitado\n-> Execute a etapa de emparelhamento. Conecte novamente:</string>
+    <string name="btn_save">Gráfico Salvo</string>
+    <string name="btn_down">Baixar do Equipamento</string>
+    <string name="toast_btnSave">Esta funcionalidade não está implementada.</string>
+
+    <string-array name="variaveis_array">
+        <item>Tensão</item>
+        <item>Frequência</item>
+        <item>Forma de onda</item>
+        <item>Duty cycle</item>
+        <item>Ajuste Tensão</item>
+        <item>Ajuste Corrente</item>
+        <item>Ajuste Frequência</item>
+    </string-array>
+
+    <string-array name="variaveis_adress">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+</resources>

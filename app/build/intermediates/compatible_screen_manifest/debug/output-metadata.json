@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "de.desenvolvimento.simple_bluetooth_le_terminal",
+  "variantName": "debug",
+  "elements": []
+}
